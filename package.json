@@ -1,0 +1,23 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alofote/L8_NodeBase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alofote/L8_NodeBase/issues"
+  },
+  "homepage": "https://github.com/Alofote/L8_NodeBase#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3"
+  }
+}
